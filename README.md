@@ -13,12 +13,6 @@
 
 ---
 
-<h3 align="center">A passionate Software Engineer and Coding Enthusiast from Italy</h3>
-
-[![trophy]([https://github-profile-trophy.vercel.app/?username=sergio0comella)](https://github.com/ryo-ma/github-profile-trophy](https://github-profile-repo.vercel.app/?username=sergio0comella&theme=light))
-
----
-
 ### 💼 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/sergio-comella"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
