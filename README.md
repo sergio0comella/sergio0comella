@@ -15,7 +15,7 @@
 
 <h3 align="center">A passionate Software Engineer and Coding Enthusiast from Italy</h3>
 
-![flat](https://github-profile-trophy.vercel.app/?username=sergio0comella&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sergio0comella)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
