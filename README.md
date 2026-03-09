@@ -4,7 +4,7 @@
 ---
 
 ### 📝 About Me
-- **Passionate and Skilled Software Developer**: I am a highly motivated and dedicated software developer, known for solving problems swiftly and effectively.
+- **Passionate and Skilled Software Engineer**: I am a highly motivated and dedicated software developer, known for solving problems swiftly and effectively.
 - **Professional Experience**: My background as a solutions/software developer has equipped me with strong skills in object-oriented programming and microservices development.
 - **Committed to Clean Code and Design Patterns**: I am passionate about design patterns and maintaining clean code, ensuring robust and maintainable solutions.
 - **Team Player and Calm Under Pressure**: I thrive in collaborative environments and handle high-stress situations with calm and clarity. My ability to remain focused during complex challenges is a defining trait.
